@@ -1,0 +1,9 @@
+[project]
+name = "account-balance-processor"
+version = "0.1.0"
+description = "Account Balance Processor — Banking operations exercise"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
